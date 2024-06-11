@@ -15,4 +15,11 @@ Install the dependencies
 Run locally
 `npm run dev`
 
+Users:
+Admin: andrestol@gmail.com 
+Password: Memoriasuper1.
+User: and@gmail.com
+Password: Memoriasuper1.
+
+
 Be careful, There will be an high vulnerability related to the Next.js version. Don't update the proyect or it won't work
