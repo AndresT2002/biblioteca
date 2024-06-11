@@ -1,0 +1,14 @@
+export { AggregateLoanArgs } from "./AggregateLoanArgs";
+export { CreateManyLoanArgs } from "./CreateManyLoanArgs";
+export { CreateOneLoanArgs } from "./CreateOneLoanArgs";
+export { DeleteManyLoanArgs } from "./DeleteManyLoanArgs";
+export { DeleteOneLoanArgs } from "./DeleteOneLoanArgs";
+export { FindFirstLoanArgs } from "./FindFirstLoanArgs";
+export { FindFirstLoanOrThrowArgs } from "./FindFirstLoanOrThrowArgs";
+export { FindManyLoanArgs } from "./FindManyLoanArgs";
+export { FindUniqueLoanArgs } from "./FindUniqueLoanArgs";
+export { FindUniqueLoanOrThrowArgs } from "./FindUniqueLoanOrThrowArgs";
+export { GroupByLoanArgs } from "./GroupByLoanArgs";
+export { UpdateManyLoanArgs } from "./UpdateManyLoanArgs";
+export { UpdateOneLoanArgs } from "./UpdateOneLoanArgs";
+export { UpsertOneLoanArgs } from "./UpsertOneLoanArgs";
